@@ -1,3 +1,45 @@
-body {
-    background: blue;
+
+.intro {
+    text-align: center;
+    background: rgba(135, 230, 241, 0.504);
+    padding: 10px;
+
+}
+h1 {
+    font-family: 'Franklin Gothic Medium';
+    color: brown;
+    font-size: 100px;
+}
+h2 {
+    font-family: 'Lucida Sans';
+    font-size: 50px;
+}
+p {
+    font-size: 30px;
+}
+img {
+    width: 30%;
+}
+.follow {
+    text-align: center;
+    font-size: 50px;
+}
+li {
+    display: block;
+}
+#progress li {
+    display: inline;
+    padding: 150px;
+}
+#baby {
+    float: left;
+    display: none;
+}
+#confused {
+    float:left;
+    display: none;
+}
+#einstein {
+    float: left;
+    display: none;
 }
